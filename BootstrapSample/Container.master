@@ -1,0 +1,11 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Container.master.cs" Inherits="BootstrapSample.Container" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <div class="container body-content">
+        <asp:ContentPlaceHolder ID="ContainerContent" runat="server">
+        </asp:ContentPlaceHolder>
+        <hr />
+        <footer>
+            <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+        </footer>
+    </div>
+</asp:Content>
