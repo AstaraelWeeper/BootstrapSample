@@ -13,8 +13,9 @@
                 </div>
                 <!-- border defined in site.css. want it to be the whole span of the row, and not be so close to the image on the right side. -->
                 <div id="about" class="col-md-4">
-                    <h2>Sub section</h2>
+                    
                     <div class="centreAligned">
+                        <h2>Sub section</h2>
                     <img src ="http://cdnpix.com/show/imgs/63846becf78f2ab4d001021eea6326b7.jpg" alt = "Great Dane" style ="width:378px;height:426px;display:inline-block;"/>
                     </div>
                     <p>Here's some extra information for you!</p>
