@@ -10,8 +10,10 @@
                     <p class="lead">This is a jumbotron where we'll put some catchy slogan for everyone to read</p>
                     <p><a href="http://www.google.com" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
                 </div>
-                <div class="col-md-4">
+                <!-- border defined in site.css. want it to be the whole span of the row, and not be so close to the image on the right side. -->
+                    <div id="about" class="col-md-4">
                     <h2>Sub section</h2>
+                    <img src ="http://cdnpix.com/show/imgs/63846becf78f2ab4d001021eea6326b7.jpg" alt = "Great Dane" style ="width:378px;height:426px;"/>
                     <p>Here's some extra information for you!</p>
                 </div>
             </div>
