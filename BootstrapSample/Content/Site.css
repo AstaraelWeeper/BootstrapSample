@@ -30,13 +30,20 @@ input[type="select"] {
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
     .jumbotron {
-       
+       background-color: rgba(0,0,0,0);
     }
     .body-content {
         padding: 0;
     }
 }
+#main {
+ background :url('http://www.whitbyseaanglers.com/uploads/1/3/9/5/13957826/2168911_orig.jpg');
+ background-repeat:no-repeat;
+ background-size:cover;
+ 
+}
 
 #about {
     outline-style: solid;
+    
 }
