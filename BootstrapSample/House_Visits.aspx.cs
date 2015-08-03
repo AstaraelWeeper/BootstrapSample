@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace BootstrapSample
 {
-    public partial class Dog_Cat_Sitting : System.Web.UI.Page
+    public partial class House_Visits : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
