@@ -163,7 +163,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
-    <Content Include="Dog_Cat_Sitting.aspx" />
+    <Content Include="House_Visits.aspx" />
     <Content Include="Dog_Walking.aspx" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="packages.config" />
@@ -173,7 +173,6 @@
     <Content Include="Account\Web.config" />
     <Content Include="Container.master" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Reptile_Care.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -208,7 +207,6 @@
     <Content Include="Global.asax" />
     <Content Include="Services_Prices.aspx" />
     <Content Include="Site.Master" />
-    <Content Include="Small_Animal_Care.aspx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -331,12 +329,12 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Dog_Cat_Sitting.aspx.cs">
-      <DependentUpon>Dog_Cat_Sitting.aspx</DependentUpon>
+    <Compile Include="House_Visits.aspx.cs">
+      <DependentUpon>House_Visits.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Dog_Cat_Sitting.aspx.designer.cs">
-      <DependentUpon>Dog_Cat_Sitting.aspx</DependentUpon>
+    <Compile Include="House_Visits.aspx.designer.cs">
+      <DependentUpon>House_Visits.aspx</DependentUpon>
     </Compile>
     <Compile Include="Dog_Walking.aspx.cs">
       <DependentUpon>Dog_Walking.aspx</DependentUpon>
@@ -350,13 +348,6 @@
     </Compile>
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Reptile_Care.aspx.cs">
-      <DependentUpon>Reptile_Care.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Reptile_Care.aspx.designer.cs">
-      <DependentUpon>Reptile_Care.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Services_Prices.aspx.cs">
       <DependentUpon>Services_Prices.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -376,13 +367,6 @@
     </Compile>
     <Compile Include="Site.Mobile.Master.designer.cs">
       <DependentUpon>Site.Mobile.Master</DependentUpon>
-    </Compile>
-    <Compile Include="Small_Animal_Care.aspx.cs">
-      <DependentUpon>Small_Animal_Care.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Small_Animal_Care.aspx.designer.cs">
-      <DependentUpon>Small_Animal_Care.aspx</DependentUpon>
     </Compile>
     <Compile Include="Startup.cs" />
     <Compile Include="ViewSwitcher.ascx.cs">
