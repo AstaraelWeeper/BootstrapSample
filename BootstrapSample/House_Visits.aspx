@@ -14,7 +14,7 @@
                         </div>
                     
                     <div class="row">
-                    <p class="p_class">Cats find the experience of staying in a cattery stressful, and we can provide a better way. Your cat visits include feeding, topping up water, cleaning litter trays, and brushing. We will cater to your cats needs, whether that's letting an independant cat out for the day, or ensuring your house cat stays in, we know how important it is to be able to trust that your cats are kept safe.
+                    <p class="p_class">Cats find the experience of staying in a cattery stressful, and we can provide a better way. Your cat visits include feeding, topping up water, cleaning litter trays, and brushing. We will cater to your cat's needs, whether that's letting an independant cat out for the day, or ensuring your house cat stays in, we know how important it is to be able to trust that your cats are kept safe.
                         However many cats you have, they'll be taken care of with love.
                     </p>
                         </div>
