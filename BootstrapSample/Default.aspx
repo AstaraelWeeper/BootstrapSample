@@ -31,13 +31,13 @@
                       
                   <div class="col-md-6">  
                       <div class="list-group">
-                        <a href="#" class="list-group-item active">
+                        <h2 style="color:black;">
                           Some of the services we can offer:
-                        </a>
-                        <a href="#" class="list-group-item">Dog/Cat Sitting</a>
-                        <a href="#" class="list-group-item">Small Animal Care</a>
-                        <a href="#" class="list-group-item">Exotic Animal Care</a>
-                        <a href="#" class="list-group-item">Dog Walking</a>
+                        </h2>
+                        <a runat="server" href="~/Dog_Cat_Sitting.aspx" class="list-group-item">Dog/Cat Sitting</a>
+                        <a runat="server" href="~/Small_Animal_Care.aspx" class="list-group-item">Small Animal Care</a>
+                        <a runat="server" href="~/Reptile_Care.aspx" class="list-group-item">Reptile Care</a>
+                        <a runat="server" href="~/Dog_Walking.aspx" class="list-group-item">Dog Walking</a>
                        </div>
                       </div>  
                   
