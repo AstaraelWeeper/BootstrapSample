@@ -3,6 +3,9 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div id="main" >
         </div>
+        <footer>
+            <p>&copy; <%: DateTime.Now.Year %> - Whitby Pet Care</p>
+        </footer>
  
 </asp:Content>
 

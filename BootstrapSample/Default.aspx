@@ -58,8 +58,8 @@
         </div>
 
         <hr/>
-        <footer>
-            <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+      <footer>
+            <p>&copy; <%: DateTime.Now.Year %> - Whitby Pet Care</p>
         </footer>
 
     </div>

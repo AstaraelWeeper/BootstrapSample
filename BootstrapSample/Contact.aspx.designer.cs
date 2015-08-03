@@ -10,6 +10,6 @@
 namespace BootstrapSample {
     
     
-    public partial class House_Visit {
+    public partial class Contact {
     }
 }
