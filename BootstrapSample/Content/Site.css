@@ -2,6 +2,7 @@
 body {
     padding-top: 50px;
     padding-bottom: 0px;
+    min-height:100%;
 }
 
 /* Wrapping element */
@@ -66,3 +67,10 @@ input[type="select"] {
    
     text-align:center;
 }
+
+#services_container {
+   padding-top:15px;
+   padding-bottom:496px;
+}
+
+
