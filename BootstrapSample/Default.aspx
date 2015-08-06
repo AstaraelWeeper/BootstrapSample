@@ -18,23 +18,34 @@
   
     </>
 
-    <div class="mainContent"style="background:#eeeeee;">
+    <div class="mainContent" style="background: #eeeeee;">
         <div class="container">
-        <div class="row">
-            <div class="container">
-                <h2 class="mainContent">General Blurb</h2>
-                <p class="mainContent"> stuff </p>
+            <div class="row">
+                <div class="container">
+                    <h2 class="mainContent">General Blurb</h2>
+                    <p class="mainContent">stuff </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="container">
+                    <h2 class="mainContent">Pet Sitting</h2>
+                    <h3 class="mainContent">Cats</h3>
+                    <p class="mainContent">About cat sitting</p>
+                    <h3 class="mainContent">Dogs</h3>
+                    <p class="mainContent">About dog sitting</p>
+                    <h3 class="mainContent">Small Animals</h3>
+                    <p class="mainContent">About rodent sitting</p>
+                    <h3 class="mainContent">Reptiles</h3>
+                    <p class="mainContent">About reptile sitting</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="container">
+                    <h2 class="mainContent">Dog Walking</h2>
+                    <p class="mainContent">about dog walking</p>
+                </div>
             </div>
         </div>
-        <div class="row">
-            <div class="container">
-                <h2 class="mainContent">Pet Sitting</h2>
-                <p class="mainContent"></p>
-            </div>
-        </div>
-       
-        </div>
-
     </div>
 
         <hr/>

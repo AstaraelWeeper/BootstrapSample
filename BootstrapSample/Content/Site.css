@@ -345,7 +345,9 @@ div.accountInfo
 }
 
 .jumbotron{
-    font-family: Verdana, Geneva, sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom:20px;
+    padding-top:15px;
 }
 
 
@@ -362,8 +364,16 @@ div.accountInfo
 }
 
 h2.mainContent {
-   font-size:18px;
-   line-height:1.2;
+   font-size:30px;
+}
+
+p.mainContent{
+    font-size:25px;
+}
+
+h3.mainContent{
+    font-size:27px;
+    font-style:bold;
 }
 
 
