@@ -373,4 +373,18 @@ h3.mainContent{
     font-weight:600;
 }
 
+.miniform{
+    padding-left:50px;
+    border:solid;
+    min-height:100%;
+}
+
+label{
+    font-size:25px;
+}
+
+input{
+    padding-right:200px;
+}
+
 

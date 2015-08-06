@@ -84,7 +84,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="~/Contact.aspx" title="Contact Us">Contact
+                            <a href="Contact.aspx" title="Contact Us">Contact
                             </a>
                         </li>
                     </ul>
