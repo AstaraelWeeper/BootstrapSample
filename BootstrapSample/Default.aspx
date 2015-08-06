@@ -21,7 +21,7 @@
     <div class="mainContent" style="background: #eeeeee;">
         <div class="container">
             <div class="row">
-                <div class="container">
+                <div class="container" style="padding-left:30px;">
                     <h2 class="mainContent">General Blurb</h2>
                     <p class="mainContent">stuff </p>
                 </div>
