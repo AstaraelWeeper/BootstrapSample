@@ -293,6 +293,9 @@ div.accountInfo
     padding-right: 10px;
 }
 
+/* defined by me
+----------------------------------------------------------*/
+
 #body {
     background :url('http://www.whitbyseaanglers.com/uploads/1/3/9/5/13957826/2168911_orig.jpg');
  background-repeat:no-repeat;
@@ -325,25 +328,25 @@ div.accountInfo
     background-attachment:scroll;
     background-clip:border-box;
     font-size:large;
+ 
     background-origin:padding-box;
     background-position:0px 0px;
     background-repeat:no-repeat;
     background-size:auto;
     font-family:ariel,sans-serif;
-    margin-bottom:0px;
-
+      
 }
 
 #navMenu {
     background-attachment:scroll;
     background-clip:border-box;
-    background-color:rgb(0,0,0);
-    background-image:url(http://cml.sad.ukrd.com/image/387761.png);
     background-origin:padding-box;
     background-position:0px 0px;
 }
 
-
+.jumbotron{
+    font-family: Verdana, Geneva, sans-serif;
+}
 
 
 
@@ -355,7 +358,12 @@ div.accountInfo
 
 .centreAligned {
    
-    text-align:center;
-   
+    text-align:center; 
 }
+
+h2.mainContent {
+   font-size:18px;
+   line-height:1.2;
+}
+
 

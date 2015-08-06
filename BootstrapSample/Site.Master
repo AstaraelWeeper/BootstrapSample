@@ -40,10 +40,11 @@
        <div class="page" id="divPage">
 
         <div class="navbar navbar-inverse navbar" id="headerContainer">
-            <div class="centreAligned" id="image">
-                <img src ="http://www.profilebrand.com/images/facebook-cover/5012-three-happy-dogs.jpg" style="padding-top:50px; "/>
+            <div id="image">
+                <img src ="http://images5.fanpop.com/image/photos/26300000/Cat-Banner-je-CF-9F-CF-9Fis-groupies-E2-99-A0-26305952-800-100.jpg" style="width:100%;"/>
                 </div>
-            <div class="container">
+            <div class="container";
+>
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="icon-bar"></span>

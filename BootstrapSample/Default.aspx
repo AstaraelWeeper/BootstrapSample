@@ -5,14 +5,12 @@
     <div class="jumbotron">
         <div class="container">
             <div class="row">
-
                 <div class="col-md-12">
                     <h1>Welcome!</h1>
                     <p class="lead" ></p>
-                    <p style="color:black;"> For a friendly, professional service looking after your animals with love and care, talk to us. From big pets to small, whether you are going away on holiday or can't be at home during the day, we can provide a variety of services to help. </p>                  
+                    <p> For a friendly, professional service looking after your animals with love and care, talk to us. From big pets to small, whether you are going away on holiday or can't be at home during the day, we can provide a variety of services to help. </p>                  
                     
                 </div>
-
             </div>
          </div>
       </div>
@@ -20,37 +18,24 @@
   
     </>
 
-    <div class="container">
-              <div class="row"> 
-                  <div class ="centreAligned">
-                      
-                  <div class="col-md-6">  
-                      <div class="list-group">
-                        <h2 style="color:black;">
-                          Some of the services we can offer:
-                        </h2>
-                        <a runat="server" href="~/House_Visits.aspx" class="list-group-item">Dog/Cat Sitting</a>
-                        <a runat="server" href="~/House_Visits.aspx" class="list-group-item">Small Animal Care</a>
-                        <a runat="server" href="~/House_Visits.aspx" class="list-group-item">Reptile Care</a>
-                        <a runat="server" href="~/Dog_Walking.aspx" class="list-group-item">Dog Walking</a>
-                       </div>
-                      </div>  
-                  
-                <div id="about" class="col-md-4">
-                    
-                    <div class="centreAligned">
-                        <h2>About Me</h2>
-                    <img src ="http://cdnpix.com/show/imgs/63846becf78f2ab4d001021eea6326b7.jpg" alt = "Great Dane" style ="width:150px;height:200px;display:inline-block;"/>
-                    </div>
-                    <p style ="font-size:18px;">I've kept animals all my life. We love our house to be full of lovely, happy pets, and want to ensure your pets get the same care. We currently have four cats, a Great Dane, snakes and lizards, but in the past have also kept rats, guinea pigs, rabbits and even goats, so you can be sure your pets will be in safe hands.</p>
-                </div>
-                      <div class="col-md-2">  
-                          <p></p>
-                          </div>
-                  </div>
-                  </div>
+    <div class="mainContent"style="background:#eeeeee;">
+        <div class="container">
+        <div class="row">
+            <div class="container">
+                <h2 class="mainContent">General Blurb</h2>
+                <p class="mainContent"> stuff </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="container">
+                <h2 class="mainContent">Pet Sitting</h2>
+                <p class="mainContent"></p>
+            </div>
+        </div>
        
         </div>
+
+    </div>
 
         <hr/>
       <footer>
