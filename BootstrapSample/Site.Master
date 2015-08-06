@@ -15,7 +15,7 @@
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 </head>
-<body>
+<body id="body">
     <form runat="server">
         <asp:ScriptManager runat="server">
             <Scripts>
@@ -37,8 +37,12 @@
                 <%--Site Scripts--%>
             </Scripts>
         </asp:ScriptManager>
+       <div class="page" id="divPage">
 
-        <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar navbar-inverse navbar" id="headerContainer">
+            <div class="centreAligned" id="image">
+                <img src ="http://www.profilebrand.com/images/facebook-cover/5012-three-happy-dogs.jpg" style="padding-top:50px; "/>
+                </div>
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -48,12 +52,42 @@
                     </button>
                     <a class="navbar-brand" runat="server" href="~/">Whitby Pet Care</a>
                 </div>
+
                 <div class="navbar-collapse collapse">
+                     <div id="menu" class="menuDefault">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/House_Visits.aspx">House Visits</a></li>
-                        <li><a runat="server" href="~/Dog_Walking.aspx">Dog Walking</a></li>
-                        <li><a runat="server" href="~/Contact">Contact Us</a></li>
+                        <li class="dropdown">
+                            <a href="/index.php" title="PetSitting" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Pet Sitting<span class="caret" style="cursor: pointer;"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li>
+                                    <a href="~/" title="Cats">Cats
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="~/" title="Dogs">Dogs
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="~/" title="Small Animals">Small Animals
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="~/" title="Reptiles">Reptiles
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="~/" title="Dog Walking">Dog Walking
+                            </a>
+                        </li>
+                        <li>
+                            <a href="~/Contact.aspx" title="Contact Us">Contact
+                            </a>
+                        </li>
                     </ul>
+                         </div>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul class="nav navbar-nav navbar-right">
@@ -73,10 +107,12 @@
                 </div>
             </div>
         </div>
+           
 
         <asp:ContentPlaceHolder ID="MainContent" runat="server">
 
         </asp:ContentPlaceHolder>
+           </div>
     </form>            
 
 </body>
