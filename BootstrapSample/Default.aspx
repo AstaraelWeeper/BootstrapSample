@@ -28,20 +28,20 @@
             </div>
             <div class="row">
                 <div class="container">
-                    <h2 class="mainContent">Pet Sitting</h2>
-                    <h3 class="mainContent">Cats</h3>
+                    <h2 class="mainContent" id="Pet_Sitting_Header">Pet Sitting</h2>
+                    <h3 class="mainContent"id="Cats_Header">Cats</h3>
                     <p class="mainContent">About cat sitting</p>
-                    <h3 class="mainContent">Dogs</h3>
+                    <h3 class="mainContent"id="Dogs_Header">Dogs</h3>
                     <p class="mainContent">About dog sitting</p>
-                    <h3 class="mainContent">Small Animals</h3>
+                    <h3 class="mainContent"id="Small_Animals_Header">Small Animals</h3>
                     <p class="mainContent">About rodent sitting</p>
-                    <h3 class="mainContent">Reptiles</h3>
+                    <h3 class="mainContent" id="Reptiles_Header">Reptiles</h3>
                     <p class="mainContent">About reptile sitting</p>
                 </div>
             </div>
             <div class="row">
                 <div class="container">
-                    <h2 class="mainContent">Dog Walking</h2>
+                    <h2 class="mainContent"id="Dog_Walking_Header">Dog Walking</h2>
                     <p class="mainContent">about dog walking</p>
                 </div>
             </div>

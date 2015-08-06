@@ -62,25 +62,25 @@
                             </a>
                             <ul class="dropdown-menu" role="menu">
                                 <li>
-                                    <a href="~/" title="Cats">Cats
+                                    <a href="Default.aspx#Cats_Header" title="Cats">Cats
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="~/" title="Dogs">Dogs
+                                    <a href="Default.aspx#Dogs_Header" title="Dogs">Dogs
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="~/" title="Small Animals">Small Animals
+                                    <a href="Default.aspx#Small_Animals_Header" title="Small Animals">Small Animals
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="~/" title="Reptiles">Reptiles
+                                    <a href="Default.aspx#Reptiles_Header"" title="Reptiles">Reptiles
                                     </a>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a href="~/" title="Dog Walking">Dog Walking
+                            <a href="Default.aspx#Dog_Walking_Header" title="Dog Walking">Dog Walking
                             </a>
                         </li>
                         <li>
